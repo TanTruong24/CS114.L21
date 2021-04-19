@@ -1,1 +1,1 @@
-
+Recognizing hand-written digits
